@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PMLS\\source\\repos\\Ass2-Q1\\Ass2-Q1\\Ass2-Q1.csproj",
+      "projectUniqueName": "C:\\Users\\PMLS\\assignment-1-Raza254\\Ass2-Q1\\Ass2-Q1\\Ass2-Q1.csproj",
       "projectName": "Ass2-Q1",
-      "projectPath": "C:\\Users\\PMLS\\source\\repos\\Ass2-Q1\\Ass2-Q1\\Ass2-Q1.csproj",
+      "projectPath": "C:\\Users\\PMLS\\assignment-1-Raza254\\Ass2-Q1\\Ass2-Q1\\Ass2-Q1.csproj",
       "packagesPath": "C:\\Users\\PMLS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PMLS\\source\\repos\\Ass2-Q1\\Ass2-Q1\\obj\\",
+      "outputPath": "C:\\Users\\PMLS\\assignment-1-Raza254\\Ass2-Q1\\Ass2-Q1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PMLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
